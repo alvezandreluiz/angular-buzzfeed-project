@@ -1,0 +1,55 @@
+{
+  "title": "Qual é o seu estilo de liderança?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você costuma tomar decisões em equipe?",
+      "options": [
+        {"id": 1, "name": "Prefiro decidir sozinho", "alias": "A"},
+        {"id": 2, "name": "Analiso dados antes de decidir", "alias": "C"},
+        {"id": 3, "name": "Busco a opinião de todos", "alias": "B"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é a sua principal motivação ao liderar?",
+      "options": [
+        {"id": 2, "name": "Desenvolver a equipe", "alias": "B"},
+        {"id": 3, "name": "Criar um ambiente colaborativo", "alias": "C"},
+        {"id": 1, "name": "Alcançar resultados", "alias": "A"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você lida com conflitos?",
+      "options": [
+        {"id": 3, "name": "Promovo uma discussão aberta", "alias": "C"},
+        {"id": 2, "name": "Tento resolver rapidamente", "alias": "B"},
+        {"id": 1, "name": "Evito o confronto", "alias": "A"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu maior desafio como líder?",
+      "options": [
+        {"id": 2, "name": "Gerenciar o tempo", "alias": "B"},
+        {"id": 1, "name": "Manter a equipe motivada", "alias": "A"},
+        {"id": 3, "name": "Lidar com diferentes personalidades", "alias": "C"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual feedback você costuma receber da sua equipe?",
+      "options": [
+        {"id": 1, "name": "Eu sou muito exigente", "alias": "A"},
+        {"id": 2, "name": "Eu escuto as ideias deles", "alias": "B"},
+        {"id": 3, "name": "Eu sou um mentor para eles", "alias": "C"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Seu estilo de liderança é mais autoritário, focado em resultados rápidos.",
+    "B": "Você é um líder colaborativo, que valoriza a opinião da equipe.",
+    "C": "Você adota um estilo de liderança analítico e reflexivo, buscando sempre o melhor para todos."
+  }
+}

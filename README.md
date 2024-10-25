@@ -1,4 +1,13 @@
-# AngularBuzzfeedProject
+# Angular Buzzfeed Project
+
+## Angular Buzzfeed Project was inspired by "BuzzFeed.com" and was created with Angular 17+.
+
+![website picture](/public/buzzfeed-project.jpg)
+
+
+
+:point_right:[**Visit the project website and find out what kind of leader you are.**](https://alvezandreluiz.github.io/angular-buzzfeed-project/)<br />
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
 
@@ -14,14 +23,22 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Ghpages
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Install `npm add angular-cli-ghpages` to add it to your project.
 
-## Running end-to-end tests
+Run `npm run ghpages` to publish the project on GitHub Pages.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Deploy
+
+Run `npm run deploy` to build and publish the project in a single command.
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+<div align="right">
+  <a href="#top">
+    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
+  </a>
+</div>
